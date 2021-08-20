@@ -1,0 +1,23 @@
+# IDE
+.idea
+
+# environement
+venv
+.env
+
+# Code coverage
+htmlcov
+.coverage
+*.rdb
+
+# DB
+*.sqlite3
+
+# cache
+__pycache__
+
+
+#there is the folder where the js and css is build by vite
+/staticfiles/*
+
+node_modules
